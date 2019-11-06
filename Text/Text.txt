@@ -1,3 +1,7 @@
 Hola Dani como estas??
 Toma ya amigo
+<<<<<<< HEAD
 Cambio mas
+=======
+Yo tambien cambio
+>>>>>>> 5def9eabec26fc6c87635208d9da0a32c8743405
